@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "RCJCFYZVVZ.com.metilli.cosworld.dev",
+                "paths": [
+                    "/url/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "RCJCFYZVVZ.com.metilli.cosworld.dev"
+        ]
+    }
+}
