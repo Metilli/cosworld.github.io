@@ -10,7 +10,7 @@
         "details": [
             {
                 "appID": "RCJCFYZVVZ.com.metilli.cosworld.dev",
-		"paths": ["/url/*"]
+		"paths": ["/*"]
             }
         ]
     }
